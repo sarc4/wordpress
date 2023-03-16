@@ -1,0 +1,2 @@
+# wordpress
+Clean WordPress
