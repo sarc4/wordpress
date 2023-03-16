@@ -1,2 +1,3 @@
 /docker/db/data
 src/wp-content/uploads
+src/wp-content/plugins/
