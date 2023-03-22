@@ -1,4 +1,4 @@
 /docker/db/data
 src/wp-content/uploads
-src/wp-content/plugins/
+src/wp-content/plugins/*
 !src/wp-content/plugins/plugin-simple
