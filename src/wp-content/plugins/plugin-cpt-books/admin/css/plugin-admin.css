@@ -1,0 +1,23 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+
+
+ #additional_info_html_table label  {
+     padding-right: 1rem;
+     cursor: auto;
+ }
+
+ #additional_info_html_table td {
+     padding-top: 0.5rem;
+ }
+
+ #additional_info_html_table #save_adittional_info_button_td {
+     text-align: right;
+ }
+ 
+ #additional_info_html_table #save_adittional_info_button {
+     padding: 0 2rem;
+     cursor: pointer;
+ }
